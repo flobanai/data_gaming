@@ -1,0 +1,33 @@
+id_genre,nom_genre,niveau_violence_estime
+1,Animation,1
+2,Adventure,2
+3,Western,2
+4,Strategy,2
+5,MOBA,4
+6,Biography,2
+7,History,2
+8,Adult,2
+9,MMO,3
+10,Mystery,2
+11,Action,4
+12,Mobile Games,1
+13,News,2
+14,Musical,2
+15,Comedy,1
+16,Crime,4
+17,Reality-TV,2
+18,Film-Noir,2
+19,War,5
+20,RPG,3
+21,Drama,2
+22,Thriller,4
+23,FPS,5
+24,Romance,1
+25,Battle Royale,5
+26,Sci-Fi,3
+27,Music,2
+28,Game-Show,2
+29,Family,2
+30,Sport,2
+31,Horror,5
+32,Fantasy,3
